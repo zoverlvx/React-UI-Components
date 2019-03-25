@@ -33,7 +33,6 @@ const HeaderContainer = () => {
                 handle="@LambdaSchool"
                 timestamp={` ${day} ${months[month]}`}
             />
-            <HeaderContent />
         </header>
     )
 }
