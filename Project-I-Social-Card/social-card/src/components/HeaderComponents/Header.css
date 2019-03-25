@@ -1,1 +1,13 @@
 /* All styles for your header Components live here */
+header {
+    display: flex;
+}
+
+span {
+    margin-right: 10px;
+}
+
+.header-title {
+    display: flex;
+}
+
