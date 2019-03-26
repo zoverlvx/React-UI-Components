@@ -1,1 +1,31 @@
 /* All styles for your header Components live here */
+header {
+    display: flex;
+    border: 2px solid red;
+}
+
+h1 {
+    margin: 1px;
+}
+
+span {
+    color: gray;
+    margin-top: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+img {
+    border: 2px solid green;
+    margin: 3px;
+}
+
+.header-title {
+    border: 2px solid gray;
+    margin: 3px;
+    width: 100%;
+}
+
+.heading {
+    display: flex;
+}

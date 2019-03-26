@@ -1,1 +1,6 @@
 /* All styles for your Card Components live here */
+
+.card-container {
+    border: 2px solid purple;
+    margin: 2px;
+}
